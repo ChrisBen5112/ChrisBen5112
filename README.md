@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in Coding, Piano and Guitar
-- 🌱 I’m currently learning Java, Python and Rust
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me chrisben5112@gmail.com
+Chris
+14
+python, java
 
 <!---
 ChrisBen5112/ChrisBen5112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
