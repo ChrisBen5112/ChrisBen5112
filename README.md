@@ -1,8 +1,5 @@
 guy who does a lot of stuff
 
-python, java, webdev
+aspiring open source contributor
 
-<!---
-ChrisBen5112/ChrisBen5112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+python, java, webdev
