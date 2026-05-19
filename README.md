@@ -1,6 +1,4 @@
-Chris Ben
-
-16
+guy who does a lot of stuff
 
 python, java, webdev
 
